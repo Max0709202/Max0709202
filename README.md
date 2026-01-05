@@ -151,7 +151,7 @@
  </tr>
 </table>
 
-> GitHub Activity Graph
+<!--> GitHub Activity Graph -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 

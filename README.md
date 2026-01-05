@@ -155,7 +155,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/Max0709202"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Max0709202&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- <a href="https://github.com/Max0709202"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Max0709202&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
 
 <br />
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Max0709202"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;Senior%20Fullstack%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Max0709202"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;Senior%20AI%20Fullstack%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)

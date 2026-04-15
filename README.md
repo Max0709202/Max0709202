@@ -151,12 +151,6 @@
  </tr>
 </table>
 
-GitHub Activity Graph 
-
-<a href="https://github.com/Max0709202"><img alt="Noriaki Nishida's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Max0709202&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
-
 <p align="right">
   <a href="https://github.com/Max0709202?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Max0709202"/></a>
